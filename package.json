@@ -1,0 +1,26 @@
+{
+  "name": "link-enricher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-thc/link-enricher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-thc/link-enricher/issues"
+  },
+  "homepage": "https://github.com/alex-thc/link-enricher#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.1",
+    "psl": "^1.8.0",
+    "realm-web": "^1.1.0"
+  }
+}
